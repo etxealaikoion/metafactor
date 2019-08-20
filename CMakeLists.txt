@@ -26,7 +26,7 @@ set(NUM "0" CACHE STRING "")
 endif(NOT DEFINED ${NUM})
 
 if(NOT DEFINED ${LIMIT})
-set(NUM "100" CACHE STRING "")
+set(LIMIT "100" CACHE STRING "")
 endif(NOT DEFINED ${LIMIT})
 
 
